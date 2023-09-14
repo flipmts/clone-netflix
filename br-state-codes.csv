@@ -1,5 +1,5 @@
 subdivision,region,name_prefix,name,id,idIBGE,wdId,lexLabel,creation,extinction,category,timeZone,utcOffset,utcOffset_DST,postalCode_ranges,km2,borders,centroid_geohash,utm_zones,bounds_geohash,bounds_lat,bounds_long,notes
-AC,N,Estado do,Acre,1,12,Q40780,acre,1904,,State,America/Rio_Branco,-5,-5,[69900-000 69999-999],164124,AM,6qmgs6fgj,18S 19S,6q52s71b3 6w8xecq4d,-11.1455614673583 -7.11182437923207,-73.9904499689999 -66.6237537659999,
+AC,N,Estado do,Acre,1,12,Q40780,Acre,1904,,State,America/Rio_Branco,-5,-5,[69900-000 69999-999],164124,AM,6qmgs6fgj,18S 19S,6q52s71b3 6w8xecq4d,-11.1455614673583 -7.11182437923207,-73.9904499689999 -66.6237537659999,
 AL,NE,Estado de,Alagoas,2,27,Q40885,alagoas,1889,,State,America/Maceio,-3,-3,[57000-000 57999-999],27848,BA PE SE,7nmcys499,24S 25S,7nhu3bk4p 7nrjb5e5u,-10.5011858043386 -8.81312673328604,-38.237588925 -35.1519504509999,
 AM,N,Estado do,Amazonas,3,13,Q40040,amazonas,1889,,State,America/Manaus,-4,-4,[69000-000 69299-999]; [69400-000 69899-999],1559148,AC MT PA RO RR,6x602gc00,19N 20N 21N 18S 19S 20S 21S,6q780seme db2hg2zp8,-9.81804587531735 2.24663056107414,-73.8015581149999 -56.0975580379999,
 AP,N,Estado do,Amapá,4,16,Q40130,amapa,1943,,State,America/Belem,-3,-3,[68900-000 68999-999],142829,PA,db701wybj,21N 22N 22S,6zbbzqbqf dbu91p9jz,-1.23617637404071 4.43674631714571,-54.8762501799999 -49.8762166349999,
